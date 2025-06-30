@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=conradosousa&show_icons=true&theme=dracula" alt="Conrado's GitHub Stats" width="400"/>
   
   <p>
-    <a href="https://linkedin.com/in/conradosousa"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/conradosousa/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
     <a href="mailto:conradojns@hotmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" /></a>
     <a href="https://wa.me/5585996966656"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" /></a>
     <a href="https://danibastosbrownie.com.br"><img src="https://img.shields.io/badge/Portfólio-181717?logo=github" /></a>
