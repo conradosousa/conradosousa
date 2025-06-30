@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @conradosousa
-- 👀 I’m interested in estágio ou emprego!
-- 🌱 I’m currently learning HTML,CSS,JS e React.
-- 💞️ I’m looking to collaborate como desenvolvedor jr.
-- 📫 How to reach me? whatsapp 85-996966656 ou e-mail conradojns@hotmail.com
-  
+## 👋 Olá! Eu sou o Conrado Sousa
 
-<!---
-conradosousa/conradosousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+Desenvolvedor web e entusiasta de tecnologia!
+
+🚀 Atualmente focado em:
+- Desenvolvimento Web Full Stack
+- Node.js, React, TailwindCSS e PostgreSQL
+- Projetos com impacto social e controle parental
+
+🎓 Estudando:
+- Pós-graduação em Ciência de Dados e IA
+- Desenvolvimento de jogos com GDevelop
+
+🧠 Apaixonado por ensinar, aprender e construir soluções criativas que conectam tecnologia e propósito.
+
+📫 Contato:
+- Email: conradojns@hotmail.com
+- Whatsapp: 85996966656
+- LinkedIn: [linkedin.com/in/conradosousa](https://linkedin.com/in/conradosousa)
+- Portfólio: [danibastosbrownie.com.br](https://danibastosbrownie.com.br)
+
+💡 Frase que me guia:
+> “Tecnologia com propósito muda realidades.”
+
