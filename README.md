@@ -37,9 +37,7 @@
 
 ### 🌟 Projetos em Destaque
 
-- **[Projeto X](https://github.com/conradosousa/projeto-x)**: Descrição curta do projeto X e seu impacto.
-- **[Projeto Y](https://github.com/conradosousa/projeto-y)**: Pequeno resumo do que faz o projeto Y e tecnologias usadas.
-- **[Projeto Z](https://github.com/conradosousa/projeto-z)**: Explique o diferencial ou objetivo do projeto Z.
+- **[Projeto Dani Brownies](https://github.com/conradosousa/dani-brownie.git)**: Landing page desenvolvida para a marca Dani Bastos Brownie, com o objetivo de promover e comercializar brownies artesanais feitos com carinho e ingredientes selecionados.(https://www.danibastosbrownie.com.br/).
 
 ---
 
